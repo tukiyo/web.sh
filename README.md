@@ -7,3 +7,9 @@ usage
 ------
 
 $ man pager | ./web.sh
+
+
+option
+------
+
+-n: display line number.
